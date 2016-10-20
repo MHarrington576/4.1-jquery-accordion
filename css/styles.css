@@ -7,6 +7,12 @@ body {
   background-image: url("../images/marvel-backdrop.jpg");
   background-size: cover; }
 
+.dormant {
+  display: none; }
+
+.active {
+  display: block; }
+
 h1 {
   font-size: 36px;
   color: #FFFFFF;
